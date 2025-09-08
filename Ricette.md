@@ -1,3 +1,4 @@
-#Ricette di Pinco
+# Ricette di Pinco
 
-*pasta al pomodoro
+* pasta al pomodoro
+* pennette alla carbonara
