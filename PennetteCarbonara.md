@@ -1,6 +1,6 @@
 # Pennette alla Carbonara
 
-Famoso piatto della cucina italiana.
+Famoso piatto della nostra cucina italiana.
 
 ## Ingredienti
 
