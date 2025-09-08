@@ -1,3 +1,4 @@
 #Ricette di Pinco
 
-*pasta al pomodoro
+* pasta al pomodoro
+* risotto ai funghi
