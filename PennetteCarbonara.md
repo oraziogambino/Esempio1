@@ -6,6 +6,6 @@ Famoso piatto della nostra cucina italiana.
 
 * penne
 * uova
-* pancetta
+* guanciale
 * pepe nero
 
